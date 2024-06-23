@@ -1,5 +1,4 @@
-# MEC-Collage
-# MEC
+# School bus monitoring system using IOT
 import os
 import smtplib
 import ultralytics
